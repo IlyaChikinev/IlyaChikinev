@@ -22,7 +22,7 @@
 - [Checklists](https://docs.google.com/spreadsheets/d/1LmDTW1JeZ58EGqBnv2Wre2H1WauuezykHeSX-o68AXg/edit?usp=sharing)
 - [Test-Cases](https://docs.google.com/spreadsheets/d/1mWkJIZq3xtUQK5w8WPC8wLsa8k1dEE807rA3EHxUvyA/edit?usp=sharing)
 - [Bug-Reports](https://docs.google.com/spreadsheets/d/1vaCaftPt59dlR0nyMNTHBiSl-DobOw3QoaY4XWipd9w/edit?usp=sharing)
-- [SQL Queries](https://github.com/artichokeee/SQL)
+- [SQL Queries](https://docs.google.com/document/d/1z7bmxrSWEe_t1H1xMqRnuAVevSi3EJzv/edit?usp=sharing&ouid=114717568575990637117&rtpof=true&sd=true)
 - [Postman Collections](https://www.postman.com/mission-cosmologist-61065725/workspace/swagger/collection/25141570-894f2b0a-3c51-43f5-86a6-b8ccd9932570?action=share&creator=25141570)
 
 ### Follow Me
