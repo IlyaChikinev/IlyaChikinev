@@ -19,9 +19,9 @@
 
 ### Тестовая Документация
 
-- [Checklists](https://github.com/artichokeee/checklist)
-- [Test-Suites and Test-Cases](https://github.com/artichokeee/test-cases)
-- [Bug-Reports](https://github.com/artichokeee/bug-reports)
+- [Checklists](https://docs.google.com/spreadsheets/d/1LmDTW1JeZ58EGqBnv2Wre2H1WauuezykHeSX-o68AXg/edit?usp=sharing)
+- [Test-Cases](https://docs.google.com/spreadsheets/d/1mWkJIZq3xtUQK5w8WPC8wLsa8k1dEE807rA3EHxUvyA/edit?usp=sharing)
+- [Bug-Reports](https://docs.google.com/spreadsheets/d/1vaCaftPt59dlR0nyMNTHBiSl-DobOw3QoaY4XWipd9w/edit?usp=sharing)
 - [SQL Queries](https://github.com/artichokeee/SQL)
 - [Postman Collections](https://www.postman.com/mission-cosmologist-61065725/workspace/swagger/collection/25141570-894f2b0a-3c51-43f5-86a6-b8ccd9932570?action=share&creator=25141570)
 
