@@ -23,7 +23,7 @@
 - [Test-Suites and Test-Cases](https://github.com/artichokeee/test-cases)
 - [Bug-Reports](https://github.com/artichokeee/bug-reports)
 - [SQL Queries](https://github.com/artichokeee/SQL)
-- [Postman Collections](https://github.com/artichokeee/postman)
+- [Postman Collections](https://www.postman.com/mission-cosmologist-61065725/workspace/swagger/collection/25141570-894f2b0a-3c51-43f5-86a6-b8ccd9932570?action=share&creator=25141570)
 
 ### Follow Me
 [![Header](https://img.shields.io/badge/Instagram-090909?style=for-the-badge&logo=instagram&logoColor=9939a3)](https://instagram.com/23lil_ya23/)
