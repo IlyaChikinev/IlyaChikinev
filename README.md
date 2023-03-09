@@ -1,8 +1,9 @@
 ## I'm a QA Engineer
 ## Мое резюме
-[!Ссылка на резюме](https://drive.google.com/file/d/1DWjrrjqFidXbvOfna5_io5bwJbK9P2K5/view?usp=sharing)
-[!Ссылка на сертификат](https://drive.google.com/file/d/19xCoiqckkfbNp1ORtpMl6wsPyDI5RNuP/view?usp=sharing)
-
+[Ссылка на резюме](https://drive.google.com/file/d/1DWjrrjqFidXbvOfna5_io5bwJbK9P2K5/view?usp=sharing)
+[Ссылка на сертификат](https://drive.google.com/file/d/19xCoiqckkfbNp1ORtpMl6wsPyDI5RNuP/view?usp=sharing)
+![Header](https://img.shields.io/badge/HTML-090909?style=for-the-badge&logo=html&logoColor=8cc4d7)
+![Header](https://img.shields.io/badge/CSS-090909?style=for-the-badge&logo=css&logoColor=8cc4d7)
 ### Инструменты
 ![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
 ![Header](https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=postman&logoColor=f76935)
