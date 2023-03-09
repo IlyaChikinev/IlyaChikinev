@@ -1,8 +1,8 @@
 ## I'm a QA Engineer
-## My CV
-[Link to my CV](https://drive.google.com/file/d/1IUuu7i0CtDmyWazC1Ko-yKaIC_m9uH4K/view?usp=sharing)
+## Мое резюме
+[Ссылка на резюме](https://drive.google.com/file/d/1IUuu7i0CtDmyWazC1Ko-yKaIC_m9uH4K/view?usp=sharing)
 
-### Language and Tools
+### Инструменты
 ![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
 ![Header](https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=postman&logoColor=f76935)
 ![Header](https://img.shields.io/badge/Swagger-090909?style=for-the-badge&logo=swagger&logoColor=7ede2b)
@@ -14,7 +14,7 @@
 ![Header](https://img.shields.io/badge/Fiddler-090909?style=for-the-badge&logo=fiddler&logoColor=8cc4d7)
 ![Header](https://img.shields.io/badge/CharlesProxy-090909?style=for-the-badge&logo=charlesproxy&logoColor=8cc4d7)
 
-### Testing Documentation
+### Тестовая Документация
 
 - [Checklists](https://github.com/artichokeee/checklist)
 - [Test-Suites and Test-Cases](https://github.com/artichokeee/test-cases)
