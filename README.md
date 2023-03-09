@@ -1,7 +1,7 @@
 ## I'm a QA Engineer
 ## Мое резюме
-[Ссылка на резюме](https://drive.google.com/file/d/1DWjrrjqFidXbvOfna5_io5bwJbK9P2K5/view?usp=sharing)
-[Ссылка на сертификат](https://drive.google.com/file/d/19xCoiqckkfbNp1ORtpMl6wsPyDI5RNuP/view?usp=sharing)
+![Ссылка на резюме](https://drive.google.com/file/d/1DWjrrjqFidXbvOfna5_io5bwJbK9P2K5/view?usp=sharing)
+![Ссылка на сертификат](https://drive.google.com/file/d/19xCoiqckkfbNp1ORtpMl6wsPyDI5RNuP/view?usp=sharing)
 
 ### Инструменты
 ![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
