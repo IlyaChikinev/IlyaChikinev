@@ -25,6 +25,10 @@
 - [SQL Queries](https://docs.google.com/document/d/1z7bmxrSWEe_t1H1xMqRnuAVevSi3EJzv/edit?usp=sharing&ouid=114717568575990637117&rtpof=true&sd=true)
 - [Postman Collections](https://www.postman.com/mission-cosmologist-61065725/workspace/swagger/collection/25141570-894f2b0a-3c51-43f5-86a6-b8ccd9932570?action=share&creator=25141570)
 
+### Тестовое задание. Тестирование мобильного приложения
+
+- [Documentation](https://docs.google.com/spreadsheets/d/1cdF41YJsIBFg5TLPhNFBdkTeYFrzSm1EcQHL0Y7xyqo/edit?usp=sharing)
+
 ### Follow Me
 [![Header](https://img.shields.io/badge/Instagram-090909?style=for-the-badge&logo=instagram&logoColor=9939a3)](https://instagram.com/23lil_ya23/)
 [![Header](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=31a5db)](https://t.me/lil_ya23)
