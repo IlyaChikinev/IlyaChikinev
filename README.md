@@ -1,6 +1,6 @@
 ## I'm a QA Engineer
 ## Мое резюме
-[Ссылка на резюме](https://drive.google.com/file/d/1DWjrrjqFidXbvOfna5_io5bwJbK9P2K5/view?usp=sharing)  
+[Ссылка на резюме](https://drive.google.com/file/d/1sfM5QNFRklCokPE4dtaZomqb-9rbjLmq/view?usp=sharing)  
 [Ссылка на сертификат](https://drive.google.com/file/d/19xCoiqckkfbNp1ORtpMl6wsPyDI5RNuP/view?usp=sharing)
 
 ### Инструменты
